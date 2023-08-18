@@ -1,0 +1,1 @@
+You will have to implement and compare performance with WFS and MFS of (1) Extended Lesk and (2) Random-Page Rank; Word vectors have to be used. 
